@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="MenuVeryficationMenuOptions"
+    errors="0" failures="1" hostname="" id="" package="MenuVeryficationMenuOptions" skipped="0"
+    tests="1" time="27.90" timestamp="">
+  
+    <testcase name="Menu Verification Menu Options " classname="MenuVeryficationMenuOptions" time="27.90" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;//a[text()=&#39;WORK&#39;]&gt; to be visible - expected &#34;visible&#34; but got: &#34;not visible&#34; (5419ms)">    at Object.Menu Verification Menu Options  (/Users/olga/IdeaProjects/task/TestRun/MenuVeryficationMenuOptions.js:18:35)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

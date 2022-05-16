@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="MenuVerificationRelevantPages"
+    errors="0" failures="0" hostname="" id="" package="MenuVerificationRelevantPages" skipped="0"
+    tests="1" time="29.21" timestamp="">
+  
+    <testcase name="Menu Verification Relevant Pages " classname="MenuVerificationRelevantPages" time="29.21" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
